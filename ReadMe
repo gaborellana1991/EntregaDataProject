@@ -1,3 +1,6 @@
+# EntregaDataProject
+Entrega DataProject - Dashboard & Análisis de Datos
+
 Paso a Paso – Análisis y creación del Dashboard
   • Encontrar una BBDD
   •	Importar archivo CSV como tabla
@@ -29,3 +32,7 @@ o	Comportamiento del usuario por plataforma
 •	La segmentación de datos, a la derecha del Dashboard, permite analizar más en detalle utilizando los filtros y adecuándolos a las necesidades del análisis. A través de esta herramienta, se puede -por ejemplo- analizar cómo es el comportamiento y las preferencias de los usuarios japoneses, con suscripción Premium, de entre 20 y 29 años que escuchan Jazz y EDM. 
 
 •	Por consiguiente, este Dashboard permite moverse eficientemente, y de manera simple y versátil, por las preferencias y características de los usuarios cuyos datos han sido recopilados, permitiendo tomar decisiones claves y estratégicas basadas en información real. 
+
+
+
+Datos obtenidos desde: https://www.kaggle.com/datasets/atharvasoundankar/global-music-streaming-trends-and-listener-insights/data

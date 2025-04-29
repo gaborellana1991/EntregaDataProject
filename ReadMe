@@ -1,0 +1,31 @@
+Paso a Paso – Análisis y creación del Dashboard
+  • Encontrar una BBDD
+  •	Importar archivo CSV como tabla
+  •	Comprensión general de los datos:
+o	Estructura básica: OK
+o	Columnas: OK (entender unidades de medida)
+o	Tipo de datos: OK
+o	¿Qué nos cuentan los datos?
+  •	Transformación y limpieza
+o	Columnas “Discover weekly engagement (%)” y “Repeat song rate (%)” he tenido que hacer un reemplazar “.” por “,” para poder obtener los datos reales, ya que al usar “.” para separar los decimales, lo consideraba como texto,
+  •	Definición de BigNumbers:
+o	Total Usuarios
+o	Países analizados
+o	Plataformas analizadas
+o	Total minutos en streaming (por día) y promedio por usuario
+  •	Se decide contar una historia de manera lógica y simple, analizando y visualizando desde lo más general a lo particular
+o	Contexto general (primera fila de cajas)
+      	Usuarios por país, 
+      	Usuarios por plataforma
+      	Tipos de suscripción
+o	Características del usuario (filas intermedias)
+      	Preferencias de género (Top 5)
+      	Preferencias del momento del día
+      	Rango Etario
+o	Comportamiento del usuario por plataforma
+      	Repeat Song Rate
+      	Discover Weekly Engagement
+
+•	La segmentación de datos, a la derecha del Dashboard, permite analizar más en detalle utilizando los filtros y adecuándolos a las necesidades del análisis. A través de esta herramienta, se puede -por ejemplo- analizar cómo es el comportamiento y las preferencias de los usuarios japoneses, con suscripción Premium, de entre 20 y 29 años que escuchan Jazz y EDM. 
+
+•	Por consiguiente, este Dashboard permite moverse eficientemente, y de manera simple y versátil, por las preferencias y características de los usuarios cuyos datos han sido recopilados, permitiendo tomar decisiones claves y estratégicas basadas en información real. 
